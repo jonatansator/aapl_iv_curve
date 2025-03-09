@@ -22,3 +22,7 @@
 - **Input**: Historical stock data ranges from **2024-06-15** to **2024-09-30**.
 - **Output**: Visualizes the IV curve for the nearest expiration date of AAPL call options, filtered by volume (>10).
 
+## Screenshots
+![output](output.png)
+
+
